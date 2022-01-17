@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-blog_header: Sumit Mendiratta
-title: Sumit Mendiratta - Official Website
-email: sumit@procol.in
+blog_header: Manali Satiza
+title: Manali Satiza - Official Website
+email: manali@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey folks, I'm Sumit Mendiratta. I'm the CTO at Procol. I sometimes write about the product management, psychology, tech and the intersection of tech and procurement. 
+  Hey folks, I'm Manali Satiza. 
 baseurl: "" 
-url: "https://sumitm.in" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sumitmendirata
+url: "https://manalisatiza.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
 
 # Build settings
 theme: minima
